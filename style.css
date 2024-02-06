@@ -14,7 +14,7 @@ body {
 
 .todo-container .header {
   padding: 15px;
-  background-color: #779097;
+  background-color: #004977;
   position: relative;
 }
 
@@ -40,7 +40,7 @@ body {
   border-radius: 50%;
   line-height: 43px;
   text-align: center;
-  color: #779097;
+  color: #004977;
   font-size: 35px;
   cursor: pointer;
   transition: transform 0.4s;
